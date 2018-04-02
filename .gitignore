@@ -1,0 +1,9 @@
+
+# Let's ignore Vim swap files
+.*.swp
+
+# Let's ignore build and temporary files
+.debug
+.build
+*.bin
+
